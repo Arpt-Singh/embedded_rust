@@ -1,0 +1,8 @@
+/home/automation/Data/embedded_rust/decrusting_serde/target/debug/deps/libunicode_ident-31b9fc2a463fc549.rmeta: /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-ident-1.0.16/src/lib.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-ident-1.0.16/src/tables.rs
+
+/home/automation/Data/embedded_rust/decrusting_serde/target/debug/deps/libunicode_ident-31b9fc2a463fc549.rlib: /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-ident-1.0.16/src/lib.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-ident-1.0.16/src/tables.rs
+
+/home/automation/Data/embedded_rust/decrusting_serde/target/debug/deps/unicode_ident-31b9fc2a463fc549.d: /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-ident-1.0.16/src/lib.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-ident-1.0.16/src/tables.rs
+
+/home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-ident-1.0.16/src/lib.rs:
+/home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-ident-1.0.16/src/tables.rs:
