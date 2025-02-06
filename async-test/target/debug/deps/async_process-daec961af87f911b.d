@@ -1,0 +1,9 @@
+/home/automation/Data/embedded_rust/async-test/target/debug/deps/libasync_process-daec961af87f911b.rmeta: /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/lib.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/unix.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/mod.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/wait.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/signal.rs
+
+/home/automation/Data/embedded_rust/async-test/target/debug/deps/async_process-daec961af87f911b.d: /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/lib.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/unix.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/mod.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/wait.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/signal.rs
+
+/home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/lib.rs:
+/home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/unix.rs:
+/home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/mod.rs:
+/home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/wait.rs:
+/home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/signal.rs:

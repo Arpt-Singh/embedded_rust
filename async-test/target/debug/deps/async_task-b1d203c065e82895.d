@@ -1,0 +1,11 @@
+/home/automation/Data/embedded_rust/async-test/target/debug/deps/libasync_task-b1d203c065e82895.rmeta: /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/lib.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/header.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/raw.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/runnable.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/state.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/task.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/utils.rs
+
+/home/automation/Data/embedded_rust/async-test/target/debug/deps/async_task-b1d203c065e82895.d: /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/lib.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/header.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/raw.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/runnable.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/state.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/task.rs /home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/utils.rs
+
+/home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/lib.rs:
+/home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/header.rs:
+/home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/raw.rs:
+/home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/runnable.rs:
+/home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/state.rs:
+/home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/task.rs:
+/home/automation/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/utils.rs:
